@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Yelp-Api--React.io.git/static/css/main.af1f8cb2.chunk.css",
+    "main.js": "/Yelp-Api--React.io.git/static/js/main.59b8548b.chunk.js",
+    "main.js.map": "/Yelp-Api--React.io.git/static/js/main.59b8548b.chunk.js.map",
+    "runtime-main.js": "/Yelp-Api--React.io.git/static/js/runtime-main.01fc9768.js",
+    "runtime-main.js.map": "/Yelp-Api--React.io.git/static/js/runtime-main.01fc9768.js.map",
+    "static/js/2.f270106d.chunk.js": "/Yelp-Api--React.io.git/static/js/2.f270106d.chunk.js",
+    "static/js/2.f270106d.chunk.js.map": "/Yelp-Api--React.io.git/static/js/2.f270106d.chunk.js.map",
+    "static/js/3.b6d22c9b.chunk.js": "/Yelp-Api--React.io.git/static/js/3.b6d22c9b.chunk.js",
+    "static/js/3.b6d22c9b.chunk.js.map": "/Yelp-Api--React.io.git/static/js/3.b6d22c9b.chunk.js.map",
+    "index.html": "/Yelp-Api--React.io.git/index.html",
+    "static/css/main.af1f8cb2.chunk.css.map": "/Yelp-Api--React.io.git/static/css/main.af1f8cb2.chunk.css.map",
+    "static/js/2.f270106d.chunk.js.LICENSE.txt": "/Yelp-Api--React.io.git/static/js/2.f270106d.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Yelp-Api--React.io.git/static/media/background_search_mobile.bfe57261.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01fc9768.js",
+    "static/js/2.f270106d.chunk.js",
+    "static/css/main.af1f8cb2.chunk.css",
+    "static/js/main.59b8548b.chunk.js"
+  ]
+}
